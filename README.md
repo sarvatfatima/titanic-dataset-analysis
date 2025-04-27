@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal of this project is to analyze the Titanic dataset and identify the factors that influenced passenger survival rates. By exploring variables such as class, age, gender, and family size, we aim to uncover key patterns that contributed to the likelihood of survival during the Titanic disaster.
+The goal of this project is to analyze the Titanic [dataset](https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv) and identify the factors that influenced passenger survival rates. By exploring variables such as class, age, gender, and family size, we aim to uncover key patterns that contributed to the likelihood of survival during the Titanic disaster.
 
 ## Dataset
 
